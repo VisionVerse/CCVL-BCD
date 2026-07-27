@@ -31,8 +31,8 @@ To address this issue, we propose **CoVaL**, a compact commonality–variation l
 - **Stage I: What changes?**  
   Low-redundancy Commonality–Variation Decoupling (LCVD) answers **“what changes?”** by separating invariant commonality from change-sensitive variation.
 
-- **Stage II: VPL**  
-  Variation-guided Progressive Localization answers **“where changes occur?”** by progressively decoding variation features from deep semantic levels to shallow spatial details.
+- **Stage II: Where changes occur?**  
+  Variation-guided Progressive Localization (VPL) answers **“where changes occur?”** by progressively decoding variation features from deep semantic levels to shallow spatial details.
 
 ---
 
