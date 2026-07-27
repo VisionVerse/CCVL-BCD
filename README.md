@@ -196,8 +196,6 @@ CoVaL/
 │       ├── tsne_all.jpg
 │       ├── Visualization_Result_1.jpg
 │       └── Visualization_Result_2.jpg
-├── 📁 kernels/
-│   └── 📁 selective_scan/            # CUDA kernels
 ├── 📁 pretrained_weight/
 ```
 
